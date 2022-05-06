@@ -1,0 +1,34 @@
+body {
+
+   text-align: center;
+   text-transform: uppercase;
+   background-color: rgb(77, 255, 255);
+
+}
+
+.result {
+
+    color:rgb(255, 0, 0);
+    text-decoration: solid;
+}
+
+.label {
+
+    color: brown;
+}
+
+.label2 {
+
+    color:chocolate
+    
+}
+.countainer {
+
+    margin: 50px;
+    align-items: center;
+}
+.num  {
+
+    padding: 0.5 px;
+    border-radius: 1%;
+}
